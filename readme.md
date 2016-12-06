@@ -47,7 +47,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ##Module Loading
 - [SystemJS](https://github.com/One-com/systemjs-plugin-ko-tpl) - SystemJS plugin for loading Knockout.js Templates 
-- [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS plugin for loading Knockout.js Templates
+- [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS Knockout JS Module Loader
 
 ##Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
