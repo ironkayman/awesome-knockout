@@ -20,6 +20,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Plugins and libraries
 ### Mapping
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
+- [Mapping Merge](https://github.com/grofit/knockout.merge) - Addon to knockout.mapping to merge object props.
 - [Knockout Mapper](https://github.com/lucaslorentz/knockout.mapper) - An extensible and fast object mapping plugin for KnockoutJS 
 - [Knockout ViewModel](https://github.com/coderenaissance/knockout.viewmodel) - The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel. 
 
