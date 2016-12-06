@@ -18,8 +18,15 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
 ## Plugins and libraries
+### Mapping
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
+- [Knockout Mapper](https://github.com/lucaslorentz/knockout.mapper) - An extensible and fast object mapping plugin for KnockoutJS 
+- [Knockout ViewModel](https://github.com/coderenaissance/knockout.viewmodel) - The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel. 
+
+### Validation
 - [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
+
+### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates
