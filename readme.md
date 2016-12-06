@@ -45,6 +45,10 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
+##Module Loading
+- [SystemJS](https://github.com/One-com/systemjs-plugin-ko-tpl) - SystemJS plugin for loading Knockout.js Templates 
+- [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS plugin for loading Knockout.js Templates
+
 ##Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 - [TodoMVC] (http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
