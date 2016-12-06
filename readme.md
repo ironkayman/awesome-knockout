@@ -46,6 +46,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
 ##Module Loading
+###SystemJS
 - [SystemJS](https://github.com/One-com/systemjs-plugin-ko-tpl) - SystemJS plugin for loading Knockout.js Templates 
 - [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS Knockout JS Module Loader
 
