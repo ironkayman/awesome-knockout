@@ -47,6 +47,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
+- [Bind Initial Value](http://stackoverflow.com/questions/12125143/giving-initial-value-to-observable-from-the-html-markup) - Bind observables with an initial value.
 
 ##Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
