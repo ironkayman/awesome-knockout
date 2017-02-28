@@ -25,7 +25,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Knockout ViewModel](https://github.com/coderenaissance/knockout.viewmodel) - The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel. 
 
 ### Validation
-- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
+- [Knockout-Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS  Examples:  http://jsfiddle.net/KHFn8/5424/
 
 ### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
