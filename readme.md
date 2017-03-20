@@ -43,7 +43,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
-##Custom Bindings
+## Custom Bindings
 ### Data
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
@@ -59,15 +59,16 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ### Security
 - [knockout-secure-binding](https://github.com/brianmhunt/knockout-secure-binding) - Custom binding provider that can be used with a Content Security Policy that prohibits unsafe eval (such as web-apps)
 
-##Components
+## Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
 ## Syntactic Sugar
 - [ES5](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/) ES5 reduce all those brackets around your observables.
 
-##Module Loading
-###SystemJS
+## Module Loading
+
+### SystemJS
 - [SystemJS](https://github.com/One-com/systemjs-plugin-ko-tpl) - SystemJS plugin for loading Knockout.js Templates 
 - [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS Knockout JS Module Loader
 
