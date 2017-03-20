@@ -50,7 +50,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 - [Bind Initial Value](http://stackoverflow.com/questions/12125143/giving-initial-value-to-observable-from-the-html-markup) - Bind observables with an initial value.
-- [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
 - [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
 - [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
 
@@ -63,6 +62,9 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ##Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
+
+## Syntactic Sugar
+- [ES5](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/) ES5 reduce all those brackets around your observables.
 
 ##Module Loading
 ###SystemJS
