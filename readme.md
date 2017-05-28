@@ -25,7 +25,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Knockout ViewModel](https://github.com/coderenaissance/knockout.viewmodel) - The knockout viewmodel plugin is the fastest, smallest, cleanest, most flexible way to create a knockout viewmodel. 
 
 ### Validation
-- [Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
+- [Knockout-Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS  Examples:  http://jsfiddle.net/KHFn8/5424/
 
 ### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
@@ -43,33 +43,38 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
-##Custom Bindings
+## Custom Bindings
 ### Data
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 - [Bind Initial Value](http://stackoverflow.com/questions/12125143/giving-initial-value-to-observable-from-the-html-markup) - Bind observables with an initial value.
+- [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
+- [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
+
+### Animation and UI
 - [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
 - [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
 - [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
 - [Datepicker binding handler] (http://jsfiddle.net/rniemeyer/NAgNV/) - (2.x) author:rniemeyer
 
-### Animation and UI
-- [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
-
 ### Security
 - [knockout-secure-binding](https://github.com/brianmhunt/knockout-secure-binding) - Custom binding provider that can be used with a Content Security Policy that prohibits unsafe eval (such as web-apps)
 
-##Components
+## Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
 - [Testing](https://github.com/profiscience/ko-component-tester) - Helpful utilities for TDD + Knockout.js
 
-##Module Loading
-###SystemJS
+## Syntactic Sugar
+- [ES5](http://blog.stevensanderson.com/2013/05/20/knockout-es5-a-plugin-to-simplify-your-syntax/) ES5 reduce all those brackets around your observables.
+
+## Module Loading
+
+### SystemJS
 - [SystemJS](https://github.com/One-com/systemjs-plugin-ko-tpl) - SystemJS plugin for loading Knockout.js Templates 
 - [SystemJS](https://gist.github.com/jpolvora/3712241510e1b1023fbb00d0285dedf8) - SystemJS Knockout JS Module Loader
 
-##Examples
+## Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 - [TodoMVC] (http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
