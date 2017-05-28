@@ -51,13 +51,13 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 - [Bind Initial Value](http://stackoverflow.com/questions/12125143/giving-initial-value-to-observable-from-the-html-markup) - Bind observables with an initial value.
 - [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
-- [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
+- [Knockout-Else](https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
 
 ### Animation and UI
 - [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
 - [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
 - [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
-- [Datepicker binding handler] (http://jsfiddle.net/rniemeyer/NAgNV/) - (2.x) author:rniemeyer
+- [Datepicker binding handler](http://jsfiddle.net/rniemeyer/NAgNV/) - (2.x) author:rniemeyer
 
 ### Security
 - [knockout-secure-binding](https://github.com/brianmhunt/knockout-secure-binding) - Custom binding provider that can be used with a Content Security Policy that prohibits unsafe eval (such as web-apps)
@@ -77,4 +77,4 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
-- [TodoMVC] (http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
+- [TodoMVC](http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
