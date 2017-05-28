@@ -41,14 +41,25 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
 - [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
+- [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
 ##Custom Bindings
+### Data
 - [Punches](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 - [Bind Initial Value](http://stackoverflow.com/questions/12125143/giving-initial-value-to-observable-from-the-html-markup) - Bind observables with an initial value.
 - [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
+- [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
+- [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
+- [Datepicker binding handler] (http://jsfiddle.net/rniemeyer/NAgNV/) - (2.x) author:rniemeyer
+
+### Animation and UI
+- [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
+
+### Security
+- [knockout-secure-binding](https://github.com/brianmhunt/knockout-secure-binding) - Custom binding provider that can be used with a Content Security Policy that prohibits unsafe eval (such as web-apps)
 
 ##Components
 - [Cart](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage
