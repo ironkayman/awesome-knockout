@@ -2,6 +2,8 @@
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
+
+- [TKO](https://github.com/knockout/tko) Technical Knockout - THe mono repo for Knockout.js (4.0+)
 - [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building 
@@ -11,7 +13,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Pagerjs](https://github.com/finnsson/pagerjs) - Single Page Application Framework for KnockoutJS
 
 ## Integrations
-- Jquery[UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
+- [Knockout-UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS (Jquery UI)
 - [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets
 - [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers
 - [ASP.NET MVC](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC
@@ -21,7 +23,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
 ## Charts
-- [Knockout Chart](https://github.com/grofit/knockout.chart) Binding around chart.js 
+- [Knockout Chart](https://github.com/grofit/knockout.chart) Binding around chart.js
 
 ## Plugins and libraries
 
@@ -34,11 +36,16 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ### Validation
 - [Knockout-Validation](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS  Examples:  http://jsfiddle.net/KHFn8/5424/
 
+### Pub/Sub
+- [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
+
+### Routers
+- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
+
 ### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout
 - [External Template Engine](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates
-- [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
 - [Deferred Updates](https://github.com/mbest/knockout-deferred-updates) - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates
 - [Delegated Events](https://github.com/rniemeyer/knockout-delegatedEvents) - Simple and flexible plugin to do declarative event delegation
 - [Projections](https://github.com/profiscience/ko-projections) - Adds lodash FP chainability to observable arrays
@@ -47,7 +54,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
-- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
+
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
 ## Custom Bindings
@@ -92,7 +99,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Articles
 - [Communication between multiple View Models in KnockoutJS (MVVM), the right approach!](http://www.wrapcode.com/communication-between-multiple-view-models-in-knockoutjs-mvvm-the-right-approach/)
 - [How to build a large, single-page javascript application with KnockoutJS](http://firmamento.org/blog/2013/04/21/how-to-build-a-large-single-page-javascript-application-using-knockoutjs/)
-
 
 ## Snippets
 - [Confirm Click](http://jsfiddle.net/L2Lrjdba/) - Link with confirmation prompt. (native)
