@@ -3,16 +3,18 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Frameworks
 
-- [TKO](https://github.com/knockout/tko) Technical Knockout - THe mono repo for Knockout.js (4.0+)
+- [TKO](https://github.com/knockout/tko) Technical Knockout - The mono repo for Knockout.js (4.0+)
 - [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
-- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building 
+- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript.
 
 ## Single Page Applications
+
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views
 - [Pagerjs](https://github.com/finnsson/pagerjs) - Single Page Application Framework for KnockoutJS
 
 ## Integrations
+
 - [Knockout-UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS (Jquery UI)
 - [Kendo](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets
 - [Bootstrap](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers
@@ -23,6 +25,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
 ## Charts
+
 - [Knockout Chart](https://github.com/grofit/knockout.chart) Binding around chart.js
 
 ## Plugins and libraries
@@ -54,6 +57,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
+- [knockout-Selectize](https://github.com/esbenp/knockout-selectize) Knockout binding for selectize.js
 
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
@@ -91,7 +95,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 - [TodoMVC](http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
-
 
 ## Sample Apps
 - [Knockout-App](https://github.com/omerio/knockout-app) - A basic functioning CRUD application using KnockoutJS that demonstrates the use of knockout-mapping plugin and components
