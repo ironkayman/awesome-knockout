@@ -57,8 +57,9 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Namespaces](https://github.com/hunterloftis/knockout.namespaces) - Namespaces for Knockout.js
 - [Rest](https://github.com/frapontillo/knockout-rest) - A simple library to extend Knockout.js objects with RESTful actions
 - [Local Storage](https://github.com/jimrhoskins/knockout.localStorage) - LocalStorage persistence for Knockout.js
-- [knockout-Selectize](https://github.com/esbenp/knockout-selectize) Knockout binding for selectize.js
-
+- [knockout-Selectize (esbenp)](https://github.com/esbenp/knockout-selectize) Knockout binding for selectize.js
+- [knockout-selectize (krnlde)](https://github.com/krnlde/knockout-selectize) Knockout binding ofr selectize.js
+- [knockout selectize binding (MrTrick)](https://github.com/MrTrick/knockout-selectize) Selectize.js binding for knockout.
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
 
 ## Custom Bindings
