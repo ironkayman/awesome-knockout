@@ -4,8 +4,11 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Frameworks
 - [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
-- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
+- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript and designed to make building 
+
+## Single Page Applications
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views
+- [Pagerjs](https://github.com/finnsson/pagerjs) - Single Page Application Framework for KnockoutJS
 
 ## Integrations
 - Jquery[UI](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
@@ -17,7 +20,11 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [React](https://github.com/calvinwoo/knockout-bind-react) - Knockout bind React
 - [Meteor](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
+## Charts
+- [Knockout Chart](https://github.com/grofit/knockout.chart) Binding around chart.js 
+
 ## Plugins and libraries
+
 ### Mapping
 - [Mapping](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
 - [Mapping Merge](https://github.com/grofit/knockout.merge) - Addon to knockout.mapping to merge object props.
@@ -56,7 +63,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ### Animation and UI
 - [Animate](https://github.com/dnbard/knockout.animate) - Animate.css binding.
 - [Fast ForEach](https://github.com/brianmhunt/knockout-fast-foreach) - O(1) foreach binding provider
-- [Knockout-Else] (https://github.com/brianmhunt/knockout-else) - custom binding for if/else/elseif
 - [Datepicker binding handler](http://jsfiddle.net/rniemeyer/NAgNV/) - (2.x) author:rniemeyer
 
 ### Security
@@ -78,3 +84,15 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Examples
 - [WebSockets](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 - [TodoMVC](http://todomvc.com/examples/knockoutjs/) - TodoMVC in knockout  [Source](https://github.com/tastejs/todomvc/tree/master/examples/knockoutjs)
+
+
+## Sample Apps
+- [Knockout-App](https://github.com/omerio/knockout-app) - A basic functioning CRUD application using KnockoutJS that demonstrates the use of knockout-mapping plugin and components
+
+## Articles
+- [Communication between multiple View Models in KnockoutJS (MVVM), the right approach!](http://www.wrapcode.com/communication-between-multiple-view-models-in-knockoutjs-mvvm-the-right-approach/)
+- [How to build a large, single-page javascript application with KnockoutJS](http://firmamento.org/blog/2013/04/21/how-to-build-a-large-single-page-javascript-application-using-knockoutjs/)
+
+
+## Snippets
+- [Confirm Click](http://jsfiddle.net/L2Lrjdba/) - Link with confirmation prompt. (native)
