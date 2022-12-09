@@ -62,6 +62,16 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [knockout-selectize (krnlde)](https://github.com/krnlde/knockout-selectize) Knockout binding ofr selectize.js
 - [knockout selectize binding (MrTrick)](https://github.com/MrTrick/knockout-selectize) Selectize.js binding for knockout.
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
+## Developer Experience
+
+### IDE Plugins
+#### VSCode
+- [Knockout Binding Support](https://marketplace.visualstudio.com/items?itemName=tscpp.knockout-binding-support) - Syntax Highlighter for `data-bind` syntax
+- [Knockout.js Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=furstenberg.knockoutjs) - Code snippets for Knockout.js
+
+### Browser DevTools / Extensions
+- [Knockout Context Hover](https://github.com/alexcodito/KnockoutContextHover) - Adds hovering panel showing selected element viewmodel's data and context
+- [Knockoutjs Context Debugger](https://github.com/timstuyckens/chromeextensions-knockoutjs) - Adds to Inspector separate pane with selected element viewmodel context and data attributes
 
 ## Custom Bindings
 ### Data
