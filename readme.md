@@ -7,12 +7,15 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 - [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript. Unmaintained, replaced with Aurelia.
-- [Aurelia](https://github.com/aurelia/framework) - Canon continuation of Durandal with entirely rewritten codebase. Is a reimagining of concepts intoduced by Knockout as an Angular-like ecosystem on TypeScript.
+- [Aurelia](https://github.com/aurelia/framework) - Canon continuation of Durandal with entirely rewritten codebase. Is a reimagining of concepts intoduced by Knockout in an Angular2-like ecosystem on TypeScript.
 
 ## Single Page Applications
 
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views
 - [Pagerjs](https://github.com/finnsson/pagerjs) - Single Page Application Framework for KnockoutJS
+
+### Routers
+- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ## Integrations
 
@@ -42,9 +45,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ### Pub/Sub
 - [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
-
-### Routers
-- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
