@@ -6,12 +6,16 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [TKO](https://github.com/knockout/tko) Technical Knockout - The mono repo for Knockout.js (4.0+)
 - [Knockout](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
-- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript.
+- [Durandal](https://github.com/BlueSpire/Durandal/) - A cross-device, cross-platform client framework written in JavaScript. Unmaintained, replaced with Aurelia.
+- [Aurelia](https://github.com/aurelia/framework) - Canon continuation of Durandal with entirely rewritten codebase. Is a reimagining of concepts intoduced by Knockout in an Angular2-like ecosystem on TypeScript.
 
 ## Single Page Applications
 
 - [Falconjs](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views
 - [Pagerjs](https://github.com/finnsson/pagerjs) - Single Page Application Framework for KnockoutJS
+
+### Routers
+- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
 
 ## Integrations
 
@@ -42,9 +46,6 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ### Pub/Sub
 - [Postbox](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
 
-### Routers
-- [Router](https://github.com/profiscience/ko-component-router) - Router for single-page apps
-
 ### Other
 - [Sortable](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
 - [Grid](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout
@@ -61,6 +62,16 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [knockout-selectize (krnlde)](https://github.com/krnlde/knockout-selectize) Knockout binding ofr selectize.js
 - [knockout selectize binding (MrTrick)](https://github.com/MrTrick/knockout-selectize) Selectize.js binding for knockout.
 - [Knockout Transformations](https://github.com/One-com/knockout-transformations) - Live transform methods (sort / filter / map / index) for Knockout observable arrays
+## Developer Experience
+
+### IDE Plugins
+#### VSCode
+- [Knockout Binding Support](https://marketplace.visualstudio.com/items?itemName=tscpp.knockout-binding-support) - Syntax Highlighter for `data-bind` syntax
+- [Knockout.js Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=furstenberg.knockoutjs) - Code snippets for Knockout.js
+
+### Browser DevTools / Extensions
+- [Knockout Context Hover](https://github.com/alexcodito/KnockoutContextHover) - Adds hovering panel showing selected element viewmodel's data and context
+- [Knockoutjs Context Debugger](https://github.com/timstuyckens/chromeextensions-knockoutjs) - Adds to Inspector separate pane with selected element viewmodel context and data attributes
 
 ## Custom Bindings
 ### Data
